@@ -76,7 +76,9 @@
         </snapshots>
     </pluginRepository>
     </pluginRepositories>
-
+<properties>
+  <sonar.projectKey>tanveerchohan_tanveerchohan</sonar.projectKey>
+</properties>
 
  <modules>
         <module>addressbook_main</module>
